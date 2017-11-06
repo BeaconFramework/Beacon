@@ -5,7 +5,7 @@ This project provides a web dashboard for OpenStack federations done in the BEAC
 
 The application has been implemented using [Vue.js](https://vuejs.org/), [Leaflet.js](http://leafletjs.com/) for interactive map and [CodeMirror](http://codemirror.net/) for the browser code editor.
 
-[Demo gif](https://raw.githubusercontent.com/BeaconFramework/os2osdashboard/master/demo.gif)
+![](https://raw.githubusercontent.com/BeaconFramework/os2osdashboard/master/demo.gif)
 
 Ressources
 -------
